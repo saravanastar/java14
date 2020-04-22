@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="fortify-local" />
+      <option name="name" value="awsplart01.lnc.com-releases" />
+      <option name="url" value="https://artifactory.jfrog.lfg.com/artifactory/fortify-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central1" />
+      <option name="name" value="att-maven-release" />
+      <option name="url" value="https://artifactory.jfrog.lfg.com/artifactory/att-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="omnichannel-dbtlegacy-int-release-local" />
+      <option name="name" value="awsplart02.lnc.com-releases" />
+      <option name="url" value="https://artifactory.jfrog.lfg.com/artifactory/omnichannel-dbtlegacy-int-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="gp-maven-snapshot" />
+      <option name="url" value="https://artifactory.jfrog.lfg.com/artifactory/gp-maven-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="omnichannel-idm-int-release-local" />
+      <option name="name" value="awsplart02.lnc.com-releases" />
+      <option name="url" value="https://artifactory.jfrog.lfg.com/artifactory/omnichannel-idm-int-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="omnichannel-maven-int-release-local" />
+      <option name="name" value="awsplart02.lnc.com-releases" />
+      <option name="url" value="https://artifactory.jfrog.lfg.com/artifactory/omnichannel-maven-int-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="omnichannel-maven-ext-release-local" />
+      <option name="name" value="awsplart02.lnc.com-releases" />
+      <option name="url" value="https://artifactory.jfrog.lfg.com/artifactory/omnichannel-maven-ext-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="omnichannel-iib-int-release-local" />
+      <option name="name" value="awsplart02.lnc.com-releases" />
+      <option name="url" value="https://artifactory.jfrog.lfg.com/artifactory/omnichannel-iib-int-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="awsplart02.lnc.com-releases" />
+      <option name="url" value="https://artifactory.jfrog.lfg.com/artifactory/contactcenter-maven-int-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
